@@ -1,5 +1,5 @@
 #Sample line of code
-L1: print(hellooooo)
+L1: print(hi)
 L2: print(there)
 L8: increase commits from remote
 a=b+c
